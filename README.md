@@ -17,8 +17,11 @@ Prerequisites :
 - [Install Python](https://www.python.org/downloads/)<br/>
 - Execute the following command in terminal: <br/>
 ` pip install pandas` <br/>
-` pip install scikit-learn` <br/>
 ` pip install xgboost` <br/>
+` pip install seaborn` <br/>
+` pip install matplotlib` <br/>
+` pip install scikit-learn` <br/>
+
 
 ### Boosting in Machine Learning
 - Boosting is an ensemble modeling technique which attempts to build a strong classifier from the number of weak classifiers.
