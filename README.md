@@ -56,5 +56,16 @@ paper at SIGKDD Conference in 2016 and caught the Machine Learning world by fire
 ##### Comparing XGBoost 
 ![](https://miro.medium.com/max/700/1*U72CpSTnJ-XTjCisJqCqLg.jpeg)
 
+## REFERENCES 
+- Oxford Parkinson's Disease Detection Dataset will be used
+- DATASET download from [here](https://www.kaggle.com/nidaguler/parkinsons-data-set)
+
+###### Source:
+
+The dataset was created by Max Little of the University of Oxford, in 
+collaboration with the National Centre for Voice and Speech, Denver, 
+Colorado, who recorded the speech signals. The original study published the 
+feature extraction methods for general voice disorders.
+
 #### Acknowledments :
 - McSharry et al.’s 2007 paper, [Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection](https://arxiv.org/abs/0707.0086)
