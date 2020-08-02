@@ -5,6 +5,9 @@ table is a particular voice measure, and each row corresponds one of 195 voice r
 aim of the data is to discriminate healthy people from those with PD, according to "status" column which is set to 0 for healthy and 1 for PD.
 We will use Jupyter Notebook for the training data and buiding our model using XGBClassifier. 
 
+#### Google Colab Notebook
+  - For Colab Notebook [click here](https://colab.research.google.com/drive/1qEi6pUQ1Jk-v8VNaPKuuQu-GPw3J4Y_R?usp=sharing)
+
 Prerequisites :
   ###### Required 
   - Python Programming Language 
