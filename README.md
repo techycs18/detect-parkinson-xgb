@@ -8,7 +8,7 @@ We will use Jupyter Notebook for the training data and buiding our model using X
 #### Google Colab Notebook
   - For Colab Notebook [click here](https://colab.research.google.com/drive/1qEi6pUQ1Jk-v8VNaPKuuQu-GPw3J4Y_R?usp=sharing)
 
-Prerequisites :
+### Prerequisites :
   ###### Required 
   - Python Programming Language 
   - Boosting Techniques in ML 
